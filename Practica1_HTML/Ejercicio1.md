@@ -1,10 +1,11 @@
 # Ejercicio 1 - Responder el siguiente cuestionario
 
 ### 1. ¿Qué es HTML, cuando fue creado, cuáles fueron las distintas versiones y cuál es la última?
-HTML son las siglas de **HyperText Markup Language**, en español sería Lenguaje de Marcas de Hipertexto.
+HTML son las siglas de **HyperText Markup Language**, en español sería *Lenguaje de Marcas de Hipertexto*.
 Es un lenguaje de marcado para la elaboración de páginas web. Define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web.
 
-Su primera versión fue creada en el año 1
+- Su primera versión fue *HTML 2.0*, publicada en el año 1995.
+- 
 
 
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
@@ -16,5 +17,5 @@ Su primera versión fue creada en el año 1
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY4NTI1MzQsNDgxNzEwMjQyXX0=
+eyJoaXN0b3J5IjpbLTEwNDcxODkzNDcsNDgxNzEwMjQyXX0=
 -->
