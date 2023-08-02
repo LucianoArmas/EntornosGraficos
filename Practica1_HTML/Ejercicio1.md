@@ -1,7 +1,7 @@
 # Ejercicio 1 - Responder el siguiente cuestionario
 
 ### 1. ¿Qué es HTML, cuando fue creado, cuáles fueron las distintas versiones y cuál es la última?
-
+HTML son las siglas de **HyperText Markup Language **, en español sería 
 
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
 
@@ -12,5 +12,5 @@
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1Njg4NDg2LDQ4MTcxMDI0Ml19
+eyJoaXN0b3J5IjpbLTM0MzMwNzgyNiw0ODE3MTAyNDJdfQ==
 -->
