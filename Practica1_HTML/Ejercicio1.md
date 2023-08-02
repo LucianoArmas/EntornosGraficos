@@ -9,7 +9,8 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 - La versión *HTML 3.2*, publicada en 1997, es la primer recomendación de HTML publicada por el W3C (Consorcio Internacional), esta versión implementos nuevos avances, como applets de Java y texto que fluye alrededor de las imágenes
 
 - En 1999 se publica la versión *HTML 4.01*, la cual soporta mas opciones de multimedia, lenguajes de scripts, hojas de estilo, mejores capacidades de impresión y documentos mas accesibles a usuarios con discapacidades.
-- 
+
+- En 2014 se lanza *HTML 5*, la cual incorpora nuevos elementos que no estaban en HTML 4.01, se introducen nuevas etiquetas, 
 
 
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
@@ -21,5 +22,5 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzAyMDY2OCw0ODE3MTAyNDJdfQ==
+eyJoaXN0b3J5IjpbNDM5NzI4NTE0LDQ4MTcxMDI0Ml19
 -->
