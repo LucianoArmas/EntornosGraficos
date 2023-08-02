@@ -5,7 +5,8 @@ HTML son las siglas de **HyperText Markup Language**, en español sería *Lengua
 Es un lenguaje de marcado para la elaboración de páginas web. Define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web.
 
 - Su primera versión fue *HTML 2.0*, publicada en el año 1995, la cual fue el primer estándar oficial de HTML.
-- La version *HTML 3.2*, publicada en 1997, es la primer recomendacion de HTML publicada por el "3C (Consorcio Internacio)
+- La versión *HTML 3.2*, publicada en 1997, es la primer recomendación de HTML publicada por el W3C (Consorcio Internacional), esta versión implementos nuevos avances, como applets de Java y texto que fluye alrededor de las imágenes
+- 
 
 
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
@@ -17,5 +18,5 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzA0MTIyMyw0ODE3MTAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTQzODAzMjQ5OCw0ODE3MTAyNDJdfQ==
 -->
