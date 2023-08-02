@@ -1,6 +1,6 @@
 # Ejercicio 1 - Responder el siguiente cuestionario
 
-### 1. ¿Que es HTML, cuando fue creado, cuáles fueron las distintas versiones y cuál es la última?
+### 1. ¿Qué es HTML, cuando fue creado, cuáles fueron las distintas versiones y cuál es la última?
 
 
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
@@ -12,5 +12,5 @@
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNzEwMjQyXX0=
+eyJoaXN0b3J5IjpbMzM1Njg4NDg2LDQ4MTcxMDI0Ml19
 -->
