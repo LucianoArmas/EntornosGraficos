@@ -13,6 +13,7 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 - En 2014 se lanza la ultima versión *HTML 5*, la cual incorpora nuevos elementos que no estaban en HTML 4.01, se introducen nuevas etiquetas, permite introducir audio y video de forma directa en la web sin necesidad de plugins, entre otras cosas.
 
 
+
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
 
 Los principios que recomienda W3C seguir son:
@@ -20,7 +21,7 @@ Los principios que recomienda W3C seguir son:
 
 - **Considerar la accesibilidad universal a la Web**: La web debería ser accesible para todos, en especial para aquellas personas con discapacidades. Para esto los autores deben considerar como pueden representar sus documentos en diferentes plataformas, esto no significa que tienen que limitar su creatividad sino que tienen que considerar representaciones alternativas de sus diseños.
 
-- **Ayudar con la representación incremental**: 
+- **Ayudar con la representación incremental**: Los autores pueden ayudar a los agentes de usuario a representar los documentos más rápidamente.
 
 
 
@@ -31,6 +32,6 @@ Los principios que recomienda W3C seguir son:
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY4NDYxNjksLTE3Mzk5ODgxOTAsLT
+eyJoaXN0b3J5IjpbLTE5OTQ3MjY3NjgsLTE3Mzk5ODgxOTAsLT
 E2MTYxMDQzNTEsNDcyMDY3ODgzLDQ4MTcxMDI0Ml19
 -->
