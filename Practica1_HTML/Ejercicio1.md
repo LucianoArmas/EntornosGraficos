@@ -15,6 +15,9 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
 
+
+
+
 ### 3. En las Especificaciones de HTML, ¿Cuándo un elemento o atributo se considera desaprobado? ¿y obsoleto?
 
 ### 4. ¿Qué es el DTD y cuáles son los posibles DTDs contemplados en la especificación de HTML 4.01?
@@ -22,5 +25,6 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMDY3ODgzLDQ4MTcxMDI0Ml19
+eyJoaXN0b3J5IjpbLTE2MTYxMDQzNTEsNDcyMDY3ODgzLDQ4MT
+cxMDI0Ml19
 -->
