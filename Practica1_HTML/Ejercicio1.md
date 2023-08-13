@@ -16,7 +16,7 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
 
 Los principios que recomienda W3C seguir son:
-- **Separar estructura y presentación**:
+- **Separar estructura y presentación**: Para reducir tiempos de carga, facilitar las revisiones de los 
 - **Considerar la accesibilidad universal a la Web**:
 - **Ayudar con la representación incremental**:
 
@@ -29,6 +29,6 @@ Los principios que recomienda W3C seguir son:
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk5ODgxOTAsLTE2MTYxMDQzNTEsND
-cyMDY3ODgzLDQ4MTcxMDI0Ml19
+eyJoaXN0b3J5IjpbMjA4NTEzNjcyOSwtMTczOTk4ODE5MCwtMT
+YxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEwMjQyXX0=
 -->
