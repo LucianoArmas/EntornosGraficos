@@ -38,12 +38,17 @@ El *DTD* es la *Declaración del Tipo de Documento*  la cual define la estructur
 
 Los DTDs contemplados en HTML 4.01 son:
 - *DTD HTML 4.01 Estricto*: incluye todos los elementos y atributos que no han sido desaprobados o que no aparecen en documentos con marcos
-- *DTD HTML 4.01 Transicional*:
-- *DTD HTML 4.01 para Doc con Marcos*:
+
+- *DTD HTML 4.01 Transicional*: Incluye lo del DTD Estricto más los elementos y atributos desaprobados.
+
+- *DTD HTML 4.01 para Doc con Marcos*: Incluye todo lo del DTD Transicional más los marcos.
+
+
+
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTkxMzU1NywtMTk5NDcyNjc2OCwtMT
+eyJoaXN0b3J5IjpbMjA1NDg2MTA1MywtMTk5NDcyNjc2OCwtMT
 czOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEw
 MjQyXX0=
 -->
