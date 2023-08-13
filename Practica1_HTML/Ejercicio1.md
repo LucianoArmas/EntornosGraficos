@@ -35,10 +35,15 @@ Un elemento o atributo es considerado **obsoleto** cuando los quedan anticuado p
  
 ### 4. ¿Qué es el DTD y cuáles son los posibles DTDs contemplados en la especificación de HTML 4.01?
 El *DTD* es la *Declaración del Tipo de Documento*  la cual define la estructura y sintaxis del documento.
+
+Los DTDs contemplados en HTML 4.01 son:
+- *DTD HTML 4.01 Estricto*: incluye todos los elementos y atributos que no han sido desaprobados o que no aparecen en documentos con marcos
+- *DTD HTML 4.01 Transicional*:
+- *DTD HTML 4.01 para Doc con Marcos*:
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1ODI0MTAsLTE5OTQ3MjY3NjgsLTE3Mz
-k5ODgxOTAsLTE2MTYxMDQzNTEsNDcyMDY3ODgzLDQ4MTcxMDI0
-Ml19
+eyJoaXN0b3J5IjpbLTM3NTkxMzU1NywtMTk5NDcyNjc2OCwtMT
+czOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEw
+MjQyXX0=
 -->
