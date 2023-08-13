@@ -51,13 +51,15 @@ Los metadatos son elementos HTML que muestran información sobre la pagina web q
 La manera de especificar los metadatos es la siguiente:
 ````html
 <head>
-	
+	<meta name="Author" content="Dave Raggett">
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-5">
+	<meta name="keywords" lang="es" content="vacaciones, Grecia, sol">
 </head>
 ````
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY5ODI2NDgsLTE5OTQ3MjY3NjgsLT
-E3Mzk5ODgxOTAsLTE2MTYxMDQzNTEsNDcyMDY3ODgzLDQ4MTcx
-MDI0Ml19
+eyJoaXN0b3J5IjpbMjA0ODkwMjQ5NywtMTI2Njk4MjY0OCwtMT
+k5NDcyNjc2OCwtMTczOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIw
+Njc4ODMsNDgxNzEwMjQyXX0=
 -->
