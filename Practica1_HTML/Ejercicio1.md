@@ -27,13 +27,15 @@ Los principios que recomienda W3C seguir son:
 
 ### 3. En las Especificaciones de HTML, ¿Cuándo un elemento o atributo se considera desaprobado? ¿y obsoleto?
 
-Un elemento o atributo es considerado **desaprobado** cuando queda anticuado por la presencia de estructuras nuevas. A su vez kl
+Un elemento o atributo es considerado **desaprobado** cuando queda anticuado por la presencia de estructuras nuevas. A su vez los agentes de usuario deben seguir dando soporte a los elementos desaprobados por razones de compatibilidad. 
+
+Un elemento o atributo es considerado **obsoleto** cuando los agentes de usuarios no le siguen dando soporte.
 ### 4. ¿Qué es el DTD y cuáles son los posibles DTDs contemplados en la especificación de HTML 4.01?
 
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MjMwMjk3LC0xOTk0NzI2NzY4LC0xNz
-M5OTg4MTkwLC0xNjE2MTA0MzUxLDQ3MjA2Nzg4Myw0ODE3MTAy
-NDJdfQ==
+eyJoaXN0b3J5IjpbMTcxOTA3NjMwNCwtMTk5NDcyNjc2OCwtMT
+czOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEw
+MjQyXX0=
 -->
