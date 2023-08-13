@@ -15,6 +15,8 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 
 ### 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
 
+Los principios que recomienda W3C seguir son:
+- asd
 
 
 
@@ -25,6 +27,6 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYxMDQzNTEsNDcyMDY3ODgzLDQ4MT
-cxMDI0Ml19
+eyJoaXN0b3J5IjpbMTQzOTEwNTQ2MCwtMTYxNjEwNDM1MSw0Nz
+IwNjc4ODMsNDgxNzEwMjQyXX0=
 -->
