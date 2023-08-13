@@ -51,8 +51,9 @@ Los metadatos son elementos HTML que muestran información sobre la pagina web q
 La manera de especificar los metadatos es la siguiente:
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTMzNjUwMCwtMTk5NDcyNjc2OCwtMT
+eyJoaXN0b3J5IjpbLTg2NzUxNzIxNCwtMTk5NDcyNjc2OCwtMT
 czOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEw
 MjQyXX0=
 -->
