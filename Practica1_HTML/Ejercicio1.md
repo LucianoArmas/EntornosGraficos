@@ -49,11 +49,15 @@ Los DTDs contemplados en HTML 4.01 son:
 Los metadatos son elementos HTML que muestran información sobre la pagina web que los contiene,  te permiten identificar propiedades de un documento, establecer una descripción de la web, asignar palabras claves relacionadas con la web, establecer información sobre copyright, etc.
 
 La manera de especificar los metadatos es la siguiente:
-
+````html
+<head>
+	
+</head>
+````
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzUxNzIxNCwtMTk5NDcyNjc2OCwtMT
-czOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEw
-MjQyXX0=
+eyJoaXN0b3J5IjpbLTEyNjY5ODI2NDgsLTE5OTQ3MjY3NjgsLT
+E3Mzk5ODgxOTAsLTE2MTYxMDQzNTEsNDcyMDY3ODgzLDQ4MTcx
+MDI0Ml19
 -->
