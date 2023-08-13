@@ -18,7 +18,7 @@ Es un lenguaje de marcado para la elaboración de páginas web. Define una estru
 Los principios que recomienda W3C seguir son:
 - **Separar estructura y presentación**: Para reducir tiempos de carga, facilitar las revisiones de los documentos y mejorar la calidad de la experiencia de usuario es necesario separar la estructura de la pagina web (definiéndola en los archivos HTML) de la presentación de la misma (la cual debería estar definida en hojas de estilos).
 
-- **Considerar la accesibilidad universal a la Web**:
+- **Considerar la accesibilidad universal a la Web**: La web debería ser accesible para todos, en especial para aquellas personas con discapacidades. Para esto los autores deben considerar como pueden representar sus documentos en diferentes plataformas, esto no significa que tienen que limitar su creatividad sino 
 
 - **Ayudar con la representación incremental**:
 
@@ -31,6 +31,6 @@ Los principios que recomienda W3C seguir son:
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg4NzEyOTYsLTE3Mzk5ODgxOTAsLT
-E2MTYxMDQzNTEsNDcyMDY3ODgzLDQ4MTcxMDI0Ml19
+eyJoaXN0b3J5IjpbMTI5NzY0MDUwOCwtMTczOTk4ODE5MCwtMT
+YxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEwMjQyXX0=
 -->
