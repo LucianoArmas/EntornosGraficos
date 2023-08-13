@@ -34,11 +34,11 @@ Un elemento o atributo es considerado **obsoleto** cuando los quedan anticuado p
 
  
 ### 4. ¿Qué es el DTD y cuáles son los posibles DTDs contemplados en la especificación de HTML 4.01?
-
+El *DTD* es la *Declaracion *
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMTE5NjI4LC0xOTk0NzI2NzY4LC0xNz
-M5OTg4MTkwLC0xNjE2MTA0MzUxLDQ3MjA2Nzg4Myw0ODE3MTAy
-NDJdfQ==
+eyJoaXN0b3J5IjpbLTMwNTkxNzQ1MywtMTk5NDcyNjc2OCwtMT
+czOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEw
+MjQyXX0=
 -->
