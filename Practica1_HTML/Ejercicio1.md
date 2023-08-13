@@ -47,8 +47,9 @@ Los DTDs contemplados en HTML 4.01 son:
 
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDg2MTA1MywtMTk5NDcyNjc2OCwtMT
+eyJoaXN0b3J5IjpbMTA3MDEwMTQ4MywtMTk5NDcyNjc2OCwtMT
 czOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEw
 MjQyXX0=
 -->
