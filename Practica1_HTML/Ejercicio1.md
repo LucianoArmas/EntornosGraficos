@@ -46,10 +46,13 @@ Los DTDs contemplados en HTML 4.01 son:
 
 
 ### 5. ¿Qué son los metadatos y cómo se especifican en HTML?
-Los metadatos son elementos HTML que muestran información sobre la pagina web que los contiene,  te permiten identificar propiedades de un documento, establecer una descripción de la web, 
+Los metadatos son elementos HTML que muestran información sobre la pagina web que los contiene,  te permiten identificar propiedades de un documento, establecer una descripción de la web, asignar palabras claves relacionadas con la web, establecer información sobre copyright, etc.
+
+La manera de especificar los metadatos es la siguiente:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU2Nzk1NzUsLTE5OTQ3MjY3NjgsLT
-E3Mzk5ODgxOTAsLTE2MTYxMDQzNTEsNDcyMDY3ODgzLDQ4MTcx
-MDI0Ml19
+eyJoaXN0b3J5IjpbMTk4MTMzNjUwMCwtMTk5NDcyNjc2OCwtMT
+czOTk4ODE5MCwtMTYxNjEwNDM1MSw0NzIwNjc4ODMsNDgxNzEw
+MjQyXX0=
 -->
