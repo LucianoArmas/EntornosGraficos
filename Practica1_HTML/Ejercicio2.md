@@ -19,9 +19,9 @@ Este elemento se coloca en la sección del `<body>` de la web.
 Su uso no es obligatorio, pero facilita a la hora de agregar estilos o eventos a varios elementos (los cuales se encuentran dentro del mismo div).
 
 En este ejemplo se puede analizar los siguientes componentes del div:
-- *id="bloque1"* : es un atributo el cual le define un identificador al div, el cual se lo identifica como *bloque1*. N
+- *id="bloque1"* : es un atributo el cual le define un identificador al div, el cual se lo identifica como *bloque1*. No es obligatorio pero si recomendable.
 
-- *Contenido del bloque 1* : este es el contenido, en este caso es de tipo texto, que esta dentro del div. 
+- *Contenido del bloque 1* : este es el contenido, en este caso es de tipo texto, que esta dentro del div.  No es obligatorio.
 
 
 ### 2.c) 
@@ -32,8 +32,10 @@ En este ejemplo se puede analizar los siguientes componentes del div:
 
 El elemento `<img/>`  se utiliza para representar una imagen dentro de la web.
 Se coloca dentro del `<body>`.
+Su uso no es obligatorio.
+
 Los componentes del div son:
-- *src=""* : es la ruta del archivo imagen al cual se quiere acceder.
+- *src=""* : es la ruta del archivo imagen al cual se quiere acceder. Es obligatorio especificar cual es la ruta de la imagen a mostrar, no es necesaria ponerla en el documento HTML 
 
 - *alt="lugar imagen"* : es el texto alternativo a mostrar en la web en caso de que no se encuentre la imagen en la ruta especificada.
 
@@ -73,6 +75,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODE0NDkwNCwxMzgxMDkyNzA1LDczMD
+eyJoaXN0b3J5IjpbLTQ2NTU1NzQ4OSwxMzgxMDkyNzA1LDczMD
 k5ODExNl19
 -->
