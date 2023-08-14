@@ -79,9 +79,9 @@ Y su uso no es obligatorio.
 Sus atributos son:
 - *href*: indica la url a la que se dirige, es obligatorio.
 - *type*: indica el tipo de contenido de la url, no es obligatorio.
-- *hreflang*: indica el idioma del contenido de la url, no es obligatorio
-- *charset*: 
-- *rel*:
+- *hreflang*: indica el idioma del contenido de la url, no es obligatorio.
+- *charset*: indica el codificado de caracters del contenido de la url, es opcional.
+- *rel*: indica la relación entre la página actual y la página del url. Tiene un impacto en el SEO y por eso hay que tener precaucion a la hora de utilizarlo
 - contenido: en este ejemplo es *Resumen HTML*, el cual es un texto que cumple la función de hipervínculo. Es obligatorio.
 
  
@@ -93,6 +93,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjQwNTU4MiwxMzgxMDkyNzA1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMjA5NDQ5Nzg1LDEzODEwOTI3MDUsNzMwOT
+k4MTE2XX0=
 -->
