@@ -9,6 +9,11 @@ Su función es la de transmitir información adicional por parte del desarrollad
 No es de uso obligatorio, pero si hace a las buenas practicas la implementación del mismo, ayudando a la cooperación entre distintos desarrolladores.
 
 
+### 2.b) 
+````html
+<div id="bloque1">Contenido del bloque 1</div>
+````
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDk3NzIwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgyODg5OTE2OSw3MzA5OTgxMTZdfQ==
 -->
