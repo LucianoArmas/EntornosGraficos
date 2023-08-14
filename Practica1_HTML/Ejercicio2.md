@@ -52,7 +52,19 @@ Los componentes del div son:
 <meta name="keywords" lang="es" content="casa, compra, venta, alquiler " />
 <meta http-equiv="expires" content="16-Sep-2019 7:49 PM" />
 ````
-El elemento `<meta>`  se utiliza para dec.
+El elemento `<meta>`  se utiliza para declarar metadatos.
+Se colocan dentro del `<head>`.
+Los atributos que se pueden analizar son:
+- *name*:
+- *lang*:
+- *content*:
+- *http-equiv*:
+- 
+
+
+
+
+
 
 
 
@@ -60,6 +72,6 @@ El elemento `<meta>`  se utiliza para dec.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA2ODU3NzUsMTM4MTA5MjcwNSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzcxNTEwMTMyLDEzODEwOTI3MDUsNzMwOT
+k4MTE2XX0=
 -->
