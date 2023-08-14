@@ -79,7 +79,9 @@ Y su uso no es obligatorio.
 Sus atributos son:
 - *href*:
 - *type*:
-- 
+- *hreflang*:
+- *charset*:
+- *rel*:
 
  
 
@@ -90,6 +92,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjczMTE5MCwxMzgxMDkyNzA1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNzgwMjI1MjAsMTM4MTA5MjcwNSw3MzA5OT
+gxMTZdfQ==
 -->
