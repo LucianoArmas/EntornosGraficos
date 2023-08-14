@@ -65,7 +65,7 @@ Los atributos que se pueden analizar son:
 
 - *content*: son los datos que se asocian al atributo name. En este ejemplo son *casa, compra, venta, alquiler*. En este ejemplo es obligatorio, ya que existe el atributo name.
 
-- *http-equiv*: brinda informacion como respuesta HTTP
+- *http-equiv*: aporta información sobre los encabezado de respuesta HTTP. En este caso es *expires*. Es opcional
 
 
 
@@ -78,6 +78,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNTI0MjY5LDEzODEwOTI3MDUsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MDI0MTAzNzcsMTM4MTA5MjcwNSw3Mz
+A5OTgxMTZdfQ==
 -->
