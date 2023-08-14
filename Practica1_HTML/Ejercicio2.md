@@ -26,8 +26,9 @@ En este ejemplo se puede analizar los siguientes componentes del div:
 ````html
 <img src="" alt="lugar imagen" id="im1" name="im1" width="32" height="32" longdesc="detalles.htm"/>
 ````
-El elemento *img*  se utiliza para representar una imagen dentro de la web.
-
+El elemento `<img/>`  se utiliza para representar una imagen dentro de la web.
+Se coloca dentro del `<`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjEzOTQxNTIyMCwxMzgxMDkyNzA1LDczMD
+k5ODExNl19
 -->
