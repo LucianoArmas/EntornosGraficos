@@ -73,7 +73,15 @@ Los atributos que se pueden analizar son:
 ````html
 <a href="http://www.e-style.com.ar/resumen.html" type="text/html" hreflang="es" charset="utf-8" rel="help">Resumen HTML</a>
 ````
-El elemento `<a>`  se utiliza para crear enla
+El elemento `<a>`  se utiliza para crear enlaces a otras webs, archivos o ubicaciones dentro de la misma web.
+Se usa dentro del `<body>`.
+Y su uso no es obligatorio.
+Sus atributos son:
+- *href*:
+- *type*:
+- 
+
+ 
 
 
 
@@ -82,6 +90,6 @@ El elemento `<a>`  se utiliza para crear enla
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjYyNDE0NCwxMzgxMDkyNzA1LDczMD
+eyJoaXN0b3J5IjpbMTI1NjczMTE5MCwxMzgxMDkyNzA1LDczMD
 k5ODExNl19
 -->
