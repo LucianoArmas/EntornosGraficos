@@ -63,12 +63,17 @@ Los atributos que se pueden analizar son:
 
 - *lang*:  es el idioma del contenido de la web, en este caso es Español. No es obligatorio, ya que lo puede fijar el navegador.
 
-- *content*: son los datos que se asocian al atributo name. En este ejemplo son *casa, compra, venta, alquiler*. En este ejemplo es obligatorio, ya que existe el atributo name.
+- *content*: son los datos que se asocian al atributo name o http-equiv. En el 1° ejemplo son *casa, compra, venta, alquiler* y en el 2° es *16-Sep-2019 7:49 PM*. En ambos ejemplos es obligatorio, ya que existe el atributo name y http-equiv a los cuales hacen referencia.
 
 - *http-equiv*: aporta información sobre los encabezado de respuesta HTTP. En este caso es *expires*. Es opcional
 
 
+### 2.e) 
 
+````html
+<meta name="keywords" lang="es" content="casa, compra, venta, alquiler " />
+<meta http-equiv="expires" content="16-Sep-2019 7:49 PM" />
+````
 
 
 
@@ -78,6 +83,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI0MTAzNzcsMTM4MTA5MjcwNSw3Mz
+eyJoaXN0b3J5IjpbLTE0ODcyMjY0NzQsMTM4MTA5MjcwNSw3Mz
 A5OTgxMTZdfQ==
 -->
