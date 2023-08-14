@@ -24,11 +24,10 @@ En este ejemplo se puede analizar los siguientes componentes del div:
 ### 2.c) 
 
 ````html
-<img src="" alt="lugar imagen" id="im1" name="im1" width="32" height="32"longdesc="detalles.htm"/>
+<img src="" alt="lugar imagen" id="im1" name="im1" width="32" height="32" longdesc="detalles.htm"/>
 ````
-````html
-<img>
-````
+El elemento *img*  se utiliza para representar una imagen dentro de la web.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5OTAzNTg0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTM4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
 -->
