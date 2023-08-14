@@ -43,11 +43,11 @@ Los componentes del div son:
 
 - *name="im1"*: es el nombre que se le asigna al elemento. No es obligatorio.
 
-- *width="32"*: es el ancho de la imagen, en este caso es de 32 pixeles.
+- *width="32"*: es el ancho de la imagen, en este caso es de 32 pixeles. Si es obligatorio especificar el ancho de la imagen, no es necesario aclararlo en el HTML porque se puede acalorar en una hoja de estilos.
 
-- *height="32"*: es el alto de la imagen, en este caso es de 32px.
+- *height="32"*: es el alto de la imagen, en este caso es de 32px. Si es obligatorio especificar el alto de la imagen, no es necesario aclararlo en el HTML porque se puede acalorar en una hoja de estilos.
 
-- *longdesc="detalles.htm"*: este atributo especifica una descripción larga del elemento, en este caso es *detalles.htm*
+- *longdesc="detalles.htm"*: este atributo especifica una descripción larga del elemento, en este caso es *detalles.htm*. No es obligatorio.
 
 
 ### 2.d) 
@@ -75,6 +75,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDU3NDkxNSwxMzgxMDkyNzA1LDczMD
+eyJoaXN0b3J5IjpbMTIwNDc5NjI2MCwxMzgxMDkyNzA1LDczMD
 k5ODExNl19
 -->
