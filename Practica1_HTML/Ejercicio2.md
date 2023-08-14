@@ -4,7 +4,7 @@
 ````html
 <!-- Codigo controlado el dia 12/08/2009-->
 ````
-Esta sentencia es un comentario, el cual puede escribirse en cualquier parte del codigo.
+Esta sentencia es un comentario, el cual puede escribirse en cualquier parte del código.
 Su función es la de transmitir información adicional por parte del desarrollador a las demás personas que tienen acceso al código fuente.
 No es de uso obligatorio, pero si hace a las buenas practicas la implementación del mismo, ayudando a la cooperación entre distintos desarrolladores.
 
@@ -13,6 +13,7 @@ No es de uso obligatorio, pero si hace a las buenas practicas la implementación
 ````html
 <div id="bloque1">Contenido del bloque 1</div>
 ````
+
 El elemento `<div>` define las divisiones lógicas dentro del contenido de la pagina web.
 Este elemento se coloca en la sección del `<body>` de la web.
 En este ejemplo se puede analizar los siguientes componentes del div:
@@ -26,6 +27,7 @@ En este ejemplo se puede analizar los siguientes componentes del div:
 ````html
 <img src="" alt="lugar imagen" id="im1" name="im1" width="32" height="32" longdesc="detalles.htm"/>
 ````
+
 El elemento `<img/>`  se utiliza para representar una imagen dentro de la web.
 Se coloca dentro del `<body>`.
 Los componentes del div son:
@@ -41,8 +43,20 @@ Los componentes del div son:
 
 - *height="32"*: es el alto de la imagen, en este caso es de 32px.
 
-- *longdesc="detalles.htm"*:
+- *longdesc="detalles.htm"*: este atributo especifica una descripción larga del elemento, en este caso es *detalles.htm*
+
+
+### 2.c) 
+
+````html
+<img src="" alt="lugar imagen" id="im1" name="im1" width="32" height="32" longdesc="detalles.htm"/>
+````
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDQ0MTM5NywxMzgxMDkyNzA1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTEzODQ3NDE1MTgsMTM4MTA5MjcwNSw3Mz
+A5OTgxMTZdfQ==
 -->
