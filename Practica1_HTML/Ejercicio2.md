@@ -77,10 +77,10 @@ El elemento `<a>`  se utiliza para crear enlaces a otras webs, archivos o ubicac
 Se usa dentro del `<body>`.
 Y su uso no es obligatorio.
 Sus atributos son:
-- *href*: indica la URL a la 
-- *type*:
-- *hreflang*:
-- *charset*:
+- *href*: indica la url a la que se dirige, es obligatorio.
+- *type*: indica el tipo de contenido de la url, no es obligatorio.
+- *hreflang*: indica el idioma del contenido de la url, no es obligatorio
+- *charset*: 
 - *rel*:
 - contenido: en este ejemplo es *Resumen HTML*, el cual es un texto que cumple la función de hipervínculo. Es obligatorio.
 
@@ -93,6 +93,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjI5Mzc1OSwxMzgxMDkyNzA1LDczMD
+eyJoaXN0b3J5IjpbLTc4NjQwNTU4MiwxMzgxMDkyNzA1LDczMD
 k5ODExNl19
 -->
