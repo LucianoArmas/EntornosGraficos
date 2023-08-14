@@ -29,14 +29,20 @@ En este ejemplo se puede analizar los siguientes componentes del div:
 El elemento `<img/>`  se utiliza para representar una imagen dentro de la web.
 Se coloca dentro del `<body>`.
 Los componentes del div son:
-- *src=""* : es la ruta del archivo imagen al cual se quiere acceder
-- *alt="lugar imagen"* : es el texto alternativo a mostrar en caso de que no se encuentre la imagen en la ruta 
-- *id="im1"*:
-- *name="im1"*:
-- *width="32"*:
+- *src=""* : es la ruta del archivo imagen al cual se quiere acceder.
+
+- *alt="lugar imagen"* : es el texto alternativo a mostrar en la web en caso de que no se encuentre la imagen en la ruta especificada.
+
+- *id="im1"*: es un atributo el cual le define un identificador a la img.
+
+- *name="im1"*: es el nombre que se le asigna al elemento.
+
+- *width="32"*: es el anch
+
 - *height="32"*:
+
 - *longdesc="detalles.htm"*:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjc3NDk2NCwxMzgxMDkyNzA1LDczMD
+eyJoaXN0b3J5IjpbLTYyNTQyMzA5OSwxMzgxMDkyNzA1LDczMD
 k5ODExNl19
 -->
