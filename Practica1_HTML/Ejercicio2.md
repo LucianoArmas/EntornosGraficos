@@ -16,9 +16,10 @@ No es de uso obligatorio, pero si hace a las buenas practicas la implementación
 
 El elemento `<div>` define las divisiones lógicas dentro del contenido de la pagina web.
 Este elemento se coloca en la sección del `<body>` de la web.
-Su uso no es obligatorio
+Su uso no es obligatorio, pero facilita a la hora de agregar estilos o eventos a varios elementos (los cuales se encuentran dentro del mismo div).
+
 En este ejemplo se puede analizar los siguientes componentes del div:
-- *id="bloque1"* : es un atributo el cual le define un identificador al div, el cual se lo identifica como *bloque1*.
+- *id="bloque1"* : es un atributo el cual le define un identificador al div, el cual se lo identifica como *bloque1*. N
 
 - *Contenido del bloque 1* : este es el contenido, en este caso es de tipo texto, que esta dentro del div. 
 
@@ -72,6 +73,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMyODU5OTYsMTM4MTA5MjcwNSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTMxODE0NDkwNCwxMzgxMDkyNzA1LDczMD
+k5ODExNl19
 -->
