@@ -46,17 +46,20 @@ Los componentes del div son:
 - *longdesc="detalles.htm"*: este atributo especifica una descripción larga del elemento, en este caso es *detalles.htm*
 
 
-### 2.c) 
+### 2.d) 
 
 ````html
-<img src="" alt="lugar imagen" id="im1" name="im1" width="32" height="32" longdesc="detalles.htm"/>
+<meta name="keywords" lang="es" content="casa, compra, venta, alquiler " />
+<meta http-equiv="expires" content="16-Sep-2019 7:49 PM" />
 ````
+El elemento `<meta>`  se utiliza para dec.
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ3NDE1MTgsMTM4MTA5MjcwNSw3Mz
+eyJoaXN0b3J5IjpbLTEwODA2ODU3NzUsMTM4MTA5MjcwNSw3Mz
 A5OTgxMTZdfQ==
 -->
