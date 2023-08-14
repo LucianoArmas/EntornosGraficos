@@ -13,7 +13,9 @@ No es de uso obligatorio, pero si hace a las buenas practicas la implementación
 ````html
 <div id="bloque1">Contenido del bloque 1</div>
 ````
-
+El elemento *div* define las divisiones lógicas dentro del contenido de la pagina web.
+Este elemento se coloca en la sección del *body* de la web.
+En este ejemplo se puede analizar lo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODg5OTE2OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwMDY1MjYxMDQsNzMwOTk4MTE2XX0=
 -->
