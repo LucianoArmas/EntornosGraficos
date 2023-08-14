@@ -71,10 +71,9 @@ Los atributos que se pueden analizar son:
 ### 2.e) 
 
 ````html
-<meta name="keywords" lang="es" content="casa, compra, venta, alquiler " />
-<meta http-equiv="expires" content="16-Sep-2019 7:49 PM" />
+<a href="http://www.e-style.com.ar/resumen.html" type="text/html" hreflang="es" charset="utf-8" rel="help">Resumen HTML</a>
 ````
-
+El elemento `<a>`  se utiliza para crear enla
 
 
 
@@ -83,6 +82,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcyMjY0NzQsMTM4MTA5MjcwNSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTUxNjYyNDE0NCwxMzgxMDkyNzA1LDczMD
+k5ODExNl19
 -->
