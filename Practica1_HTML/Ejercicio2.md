@@ -15,7 +15,10 @@ No es de uso obligatorio, pero si hace a las buenas practicas la implementación
 ````
 El elemento *div* define las divisiones lógicas dentro del contenido de la pagina web.
 Este elemento se coloca en la sección del *body* de la web.
-En este ejemplo se puede analizar lo
+En este ejemplo se puede analizar los siguientes componentes del div:
+- *id="bloque1"* : es un atributo el cual le define un identificador al div, el cual se lo identifica como *bloque1*
+
+- ** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY1MjYxMDQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTE0NDg5NTQ0LDczMDk5ODExNl19
 -->
