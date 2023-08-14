@@ -107,7 +107,9 @@ Sus atributos son:
 	<tr>
 		<th scope="row">2º</th>
 		<td>&nbsp;</td><td>&nbsp;</td>
-		<td>&nbsp;</td></tr></table>
+		<td>&nbsp;</td>
+	</tr>
+</table>
 ````
 
 
@@ -122,6 +124,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzE3NzYwMywxMzgxMDkyNzA1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE5NTMxNTM5NTcsMTM4MTA5MjcwNSw3Mz
+A5OTgxMTZdfQ==
 -->
