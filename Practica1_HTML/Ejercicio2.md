@@ -37,12 +37,12 @@ Los componentes del div son:
 
 - *name="im1"*: es el nombre que se le asigna al elemento.
 
-- *width="32"*: es el anch
+- *width="32"*: es el ancho de la imagen, en este caso es de 32 pixeles.
 
-- *height="32"*:
+- *height="32"*: es el alto de la imagen, en este caso es de 32px.
 
 - *longdesc="detalles.htm"*:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTQyMzA5OSwxMzgxMDkyNzA1LDczMD
+eyJoaXN0b3J5IjpbLTYyMDQ0MTM5NywxMzgxMDkyNzA1LDczMD
 k5ODExNl19
 -->
