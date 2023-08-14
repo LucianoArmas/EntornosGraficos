@@ -13,8 +13,8 @@ No es de uso obligatorio, pero si hace a las buenas practicas la implementación
 ````html
 <div id="bloque1">Contenido del bloque 1</div>
 ````
-El elemento *div* define las divisiones lógicas dentro del contenido de la pagina web.
-Este elemento se coloca en la sección del *body* de la web.
+El elemento `<div>` define las divisiones lógicas dentro del contenido de la pagina web.
+Este elemento se coloca en la sección del `<body>` de la web.
 En este ejemplo se puede analizar los siguientes componentes del div:
 - *id="bloque1"* : es un atributo el cual le define un identificador al div, el cual se lo identifica como *bloque1*.
 
@@ -27,8 +27,12 @@ En este ejemplo se puede analizar los siguientes componentes del div:
 <img src="" alt="lugar imagen" id="im1" name="im1" width="32" height="32" longdesc="detalles.htm"/>
 ````
 El elemento `<img/>`  se utiliza para representar una imagen dentro de la web.
-Se coloca dentro del `<`
+Se coloca dentro del `<body>`.
+Los componentes del div son:
+- *src=""* :
+- *alt="lugar imagen"* :
+- *id=*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTQxNTIyMCwxMzgxMDkyNzA1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTEyMDQ2ODk4ODUsMTM4MTA5MjcwNSw3Mz
+A5OTgxMTZdfQ==
 -->
