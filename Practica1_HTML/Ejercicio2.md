@@ -61,9 +61,9 @@ Se colocan dentro del `<head>`.
 Los atributos que se pueden analizar son:
 - *name*: es el nombre al cual se asocia al elemento meta. En este caso es *keywords*. No es obligatorio.
 
-- *lang*:  es el idioma del contenido de la web, en este caso es Español. No es obligatorio
+- *lang*:  es el idioma del contenido de la web, en este caso es Español. No es obligatorio, ya que lo puede fijar el navegador.
 
-- *content*:
+- *content*: son los datos que se asocian al atributo name. En este ejemplo son *casa, compra, venta, alquiler*. En este ejemplo es obligatorio, ya que existe el atributo name.
 
 - *http-equiv*:
 
@@ -78,6 +78,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDQwMjUwMiwxMzgxMDkyNzA1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE4NTk5MTgyNTQsMTM4MTA5MjcwNSw3Mz
+A5OTgxMTZdfQ==
 -->
