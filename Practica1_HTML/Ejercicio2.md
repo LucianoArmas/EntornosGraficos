@@ -6,7 +6,9 @@
 ````
 Esta sentencia es un comentario, el cual puede escribirse en cualquier parte del codigo.
 Su función es la de transmitir información adicional por parte del desarrollador a las demás personas que tienen acceso al código fuente.
-No es de uso obligatorio, pero si hace a las buenas practicas la implementación del mismo 
+No es de uso obligatorio, pero si hace a las buenas practicas la implementación del mismo, ayudando a la cooperación entre distintos desarrolladores.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDM0NjQzMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQzMDk3NzIwNSw3MzA5OTgxMTZdfQ==
 -->
