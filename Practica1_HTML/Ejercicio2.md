@@ -35,13 +35,13 @@ Se coloca dentro del `<body>`.
 Su uso no es obligatorio.
 
 Los componentes del div son:
-- *src=""* : es la ruta del archivo imagen al cual se quiere acceder. Es obligatorio especificar cual es la ruta de la imagen a mostrar, no es necesaria ponerla en el documento HTML 
+- *src=""* : es la ruta del archivo imagen al cual se quiere acceder. Es obligatorio especificar cual es la ruta de la imagen a mostrar, no es necesaria ponerla en el documento HTML porque quizás se puede agregar utilizando algún script.
 
-- *alt="lugar imagen"* : es el texto alternativo a mostrar en la web en caso de que no se encuentre la imagen en la ruta especificada.
+- *alt="lugar imagen"* : es el texto alternativo a mostrar en la web en caso de que no se encuentre la imagen en la ruta especificada. No es obligatorio.
 
-- *id="im1"*: es un atributo el cual le define un identificador a la img.
+- *id="im1"*: es un atributo el cual le define un identificador a la img. No es obligatorio, pero facilita el hecho de dar estilos e interactividad a la imagen.
 
-- *name="im1"*: es el nombre que se le asigna al elemento.
+- *name="im1"*: es el nombre que se le asigna al elemento. No es obligatorio.
 
 - *width="32"*: es el ancho de la imagen, en este caso es de 32 pixeles.
 
@@ -75,6 +75,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTU1NzQ4OSwxMzgxMDkyNzA1LDczMD
+eyJoaXN0b3J5IjpbMTE2NDU3NDkxNSwxMzgxMDkyNzA1LDczMD
 k5ODExNl19
 -->
