@@ -59,9 +59,12 @@ Los componentes del div son:
 El elemento `<meta>`  se utiliza para declarar metadatos.
 Se colocan dentro del `<head>`.
 Los atributos que se pueden analizar son:
-- *name*:
+- *name*: es el nombre al cual se asocia al elemento 
+
 - *lang*:
+
 - *content*:
+
 - *http-equiv*:
 
 
@@ -75,6 +78,6 @@ Los atributos que se pueden analizar son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDc5NjI2MCwxMzgxMDkyNzA1LDczMD
+eyJoaXN0b3J5IjpbLTczMDA4MjQ1MiwxMzgxMDkyNzA1LDczMD
 k5ODExNl19
 -->
