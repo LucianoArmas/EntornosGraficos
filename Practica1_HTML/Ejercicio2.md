@@ -122,9 +122,9 @@ Sus atributos son:
 * Las etiquetas `<tr>` indican las filas de la tabla, las cuales van dentro de `<table`.
 
 * Finalmente están las etiquetas:
-	* `<th>`: indican
-	* `<td>`
-
+	* `<th>`: indican las celdas utilizadas para encabezados.
+	* `<td>`: indican las celdas utilizadas para datos.
+Ambas van dentro de la etiqueta `<tr>`.
 
 
 
@@ -136,6 +136,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkxOTI3NzYsLTE5NTMxNTM5NTcsMT
-M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NTYzODU5MywtMTk1MzE1Mzk1NywxMz
+gxMDkyNzA1LDczMDk5ODExNl19
 -->
