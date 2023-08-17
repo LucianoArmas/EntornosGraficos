@@ -96,17 +96,20 @@ Sus atributos son:
 	<caption align="top"> Título </caption>
 	<tr>
 		<th scope="col">&nbsp;</th>
-		<th scope="col">A</th><th scope="col">B</th>
+		<th scope="col">A</th>
+		<th scope="col">B</th>
 		<th scope="col">C</th>
 	</tr>
 	<tr>
 		<th scope="row">1º</th>
-		<td>&nbsp;</td><td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
 	<tr>
 		<th scope="row">2º</th>
-		<td>&nbsp;</td><td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
 </table>
@@ -126,7 +129,7 @@ Sus atributos son:
 		* *scope*: indica con que otras celdas esta relacionada esa celda.
 		
 	* `<td>`: indican las celdas utilizadas para datos. Su contenido es:
-		* 
+		* `&nbsp;`: el cual indica un espacio.
 
 
 
@@ -138,6 +141,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTQxMDc1NCwtMTk1MzE1Mzk1NywxMz
-gxMDkyNzA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3NzYzMDQ1NzUsLTE5NTMxNTM5NTcsMT
+M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
 -->
