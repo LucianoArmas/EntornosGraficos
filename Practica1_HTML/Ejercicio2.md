@@ -114,9 +114,11 @@ Sus atributos son:
 
 * La etiqueta `<table>` permite visualizar una tabla en la web, este va dentro del `<body>`. Los atributos que se le asignan son:
 	* *width*: el cual especifica el ancho de la tabla, en este caso es 200 su valor.
-	* *summary*: indica el resumen de la tabla, en este caso es "Datos correspondientes al ejercicio vencido".
+	* *summary*: indica el resumen de la tabla, en este caso es "Datos correspondientes al ejercicio vencido". No es obligatorio.
 	
-* La etiqueta `<caption>` es el 
+* La etiqueta `<caption>` indica el titulo de la tabla, este elemento tiene que ir dentro del elemento `<table>`. El atributo que tiene es:
+	* *align*: indica en que parte se posiciona el titulo con respecto a la tabla, en este caso su valor es 
+* 
 
 
 
@@ -129,6 +131,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIxOTY3NjUsLTE5NTMxNTM5NTcsMT
-M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjgxODE5NzQzLC0xOTUzMTUzOTU3LDEzOD
+EwOTI3MDUsNzMwOTk4MTE2XX0=
 -->
