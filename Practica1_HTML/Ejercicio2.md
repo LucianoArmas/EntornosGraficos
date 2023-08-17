@@ -123,8 +123,10 @@ Sus atributos son:
 
 * Finalmente están las etiquetas que están dentro de `<tr>` son:
 	* `<th>`: indican las celdas utilizadas para encabezados. Su atributo es:
-		* *scope*: 
-	* `<td>`: indican las celdas utilizadas para datos.
+		* *scope*: indica con que otras celdas esta relacionada esa celda.
+		
+	* `<td>`: indican las celdas utilizadas para datos. Su contenido es:
+		* 
 
 
 
@@ -136,6 +138,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NTc1ODgzLC0xOTUzMTUzOTU3LDEzOD
-EwOTI3MDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU3NTQxMDc1NCwtMTk1MzE1Mzk1NywxMz
+gxMDkyNzA1LDczMDk5ODExNl19
 -->
