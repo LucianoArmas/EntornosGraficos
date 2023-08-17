@@ -117,7 +117,9 @@ Sus atributos son:
 	* *summary*: indica el resumen de la tabla, en este caso es "Datos correspondientes al ejercicio vencido". No es obligatorio.
 	
 * La etiqueta `<caption>` indica el titulo de la tabla, este elemento tiene que ir dentro del elemento `<table>`. El atributo que tiene es:
-	* *align*: indica en que parte se posiciona el titulo con respecto a la tabla, en este caso su valor es 
+	* *align*: indica en que parte se posiciona el titulo con respecto a la tabla, en este caso su valor es "top", por ende se posiciona en la parte superior de la tabla. Es opcional.
+
+* Las etiquetas `<tr>` indican las filas de la tabla, las cuales van dentro de `<table`.
 * 
 
 
@@ -131,6 +133,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxODE5NzQzLC0xOTUzMTUzOTU3LDEzOD
-EwOTI3MDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzOTA3MDI4MDMsLTE5NTMxNTM5NTcsMT
+M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
 -->
