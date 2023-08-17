@@ -122,14 +122,16 @@ Sus atributos son:
 * La etiqueta `<caption>` indica el titulo de la tabla, este elemento tiene que ir dentro del elemento `<table>`. El atributo que tiene es:
 	* *align*: indica en que parte se posiciona el titulo con respecto a la tabla, en este caso su valor es "top", por ende se posiciona en la parte superior de la tabla. Es opcional.
 
+
 * Las etiquetas `<tr>` indican las filas de la tabla, las cuales van dentro de `<table`.
+
 
 * Finalmente están las etiquetas que están dentro de `<tr>` son:
 	* `<th>`: indican las celdas utilizadas para encabezados. Su atributo es:
 		* *scope*: indica con que otras celdas esta relacionada esa celda.
 		
 	* `<td>`: indican las celdas utilizadas para datos. Su contenido es:
-		* `&nbsp;`: el cual indica un espacio.
+		* *`&nbsp;`*: el cual indica un espacio.
 
 
 
@@ -141,6 +143,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYzMDQ1NzUsLTE5NTMxNTM5NTcsMT
+eyJoaXN0b3J5IjpbLTE1ODg0OTI1MTUsLTE5NTMxNTM5NTcsMT
 M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
 -->
