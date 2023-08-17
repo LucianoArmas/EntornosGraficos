@@ -112,6 +112,9 @@ Sus atributos son:
 </table>
 ````
 
+* La etiqueta `<table>` permite visualizar una tabla en la web, este va dentro del `<body>`
+	* 
+* 
 
 
 
@@ -124,6 +127,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMxNTM5NTcsMTM4MTA5MjcwNSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzc3NjA4NjksLTE5NTMxNTM5NTcsMT
+M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
 -->
