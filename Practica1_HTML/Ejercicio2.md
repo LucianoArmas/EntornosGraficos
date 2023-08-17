@@ -112,8 +112,9 @@ Sus atributos son:
 </table>
 ````
 
-* La etiqueta `<table>` permite visualizar una tabla en la web, este va dentro del `<body>`
-	* 
+* La etiqueta `<table>` permite visualizar una tabla en la web, este va dentro del `<body>`. Los atributos que se le asignan son:
+	* *width*: el cual especifica el ancho de la tabla,
+	* **
 * 
 
 
@@ -127,6 +128,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc3NjA4NjksLTE5NTMxNTM5NTcsMT
-M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTUzMTc5MTEyOSwtMTk1MzE1Mzk1NywxMz
+gxMDkyNzA1LDczMDk5ODExNl19
 -->
