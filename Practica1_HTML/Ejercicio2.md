@@ -113,9 +113,10 @@ Sus atributos son:
 ````
 
 * La etiqueta `<table>` permite visualizar una tabla en la web, este va dentro del `<body>`. Los atributos que se le asignan son:
-	* *width*: el cual especifica el ancho de la tabla,
-	* **
-* 
+	* *width*: el cual especifica el ancho de la tabla, en este caso es 200 su valor.
+	* *summary*: indica el resumen de la tabla, en este caso es "Datos correspondientes al ejercicio vencido".
+	
+* La etiqueta `<caption>` es el 
 
 
 
@@ -128,6 +129,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTc5MTEyOSwtMTk1MzE1Mzk1NywxMz
-gxMDkyNzA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTExNTIxOTY3NjUsLTE5NTMxNTM5NTcsMT
+M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
 -->
