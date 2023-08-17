@@ -120,7 +120,10 @@ Sus atributos son:
 	* *align*: indica en que parte se posiciona el titulo con respecto a la tabla, en este caso su valor es "top", por ende se posiciona en la parte superior de la tabla. Es opcional.
 
 * Las etiquetas `<tr>` indican las filas de la tabla, las cuales van dentro de `<table`.
-* 
+
+* Finalmente están las etiquetas:
+	* `<th>`: indican
+	* `<td>`
 
 
 
@@ -133,6 +136,6 @@ Sus atributos son:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA3MDI4MDMsLTE5NTMxNTM5NTcsMT
+eyJoaXN0b3J5IjpbLTEyODkxOTI3NzYsLTE5NTMxNTM5NTcsMT
 M4MTA5MjcwNSw3MzA5OTgxMTZdfQ==
 -->
