@@ -1,0 +1,16 @@
+.title {
+  background-color: rgb(59, 205, 59);
+}
+.header {
+  background-color: rgb(171, 38, 171);
+}
+.cont {
+  background-color: gray;
+}
+.foot {
+  background-color: rgb(51, 51, 231);
+  color: white;
+}
+.sidBar {
+  background-color: pink;
+}

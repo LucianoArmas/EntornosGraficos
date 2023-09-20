@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <title>Bootstrap - Practica 3: Componentes - Ej 2</title>
+</head>
+<body>
+  <form method="post">
+    <div class="form-group w-25 ml-3 mt-2">
+      <label for="nameInput">Nombre:</label>
+      <input type="text" class="form-control" id="nameInput" placeholder="ExampleName" required>
+    </div>
+
+    <div class="form-group w-25 ml-3 mt-3">
+      <label for="emailInput">Email:</label>
+      <input type="email" class="form-control" id="emailInput" placeholder="example@example.com" required>
+    </div>
+
+    <div class="form-group w-25 ml-3 mt-3">
+      <label for="telInput">Telefono:</label>
+      <input type="tel" class="form-control" id="telInput" placeholder="123456789" required pattern="[0-9]{10}">
+    </div>
+
+    <div class="form-group w-50 ml-3 mt-3">
+      <label for="subjInput">Asunto:</label>
+      <input type="text" class="form-control" id="subjInput" placeholder="" required>
+    </div>
+    
+    <div class="form-group m-3">
+      <label for="textInput">Msj:</label>
+      <textarea class="form-control" id="textInput" rows="8" required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary float-right mr-3">Enviar</button>
+
+  </form>
+</body>
+</html>
